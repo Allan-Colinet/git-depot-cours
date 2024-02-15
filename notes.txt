@@ -8,6 +8,11 @@ git commit -m "message de commit" (toujours mettre un message de commit, descrip
 git log (connaitre les logs)
 
 git status (donne les documents modifié après le dernier commit)
+
 	modified (modif pas sauvee) => faire un add 
 	staged for commit => git add et demande de prise en compte
-	commited => git commit 
+	commited => git commit
+
+	on branch master nothing to commit, working clean (tout vas bien xD)
+
+
