@@ -3,4 +3,11 @@ Commande git
 git add .  (ajoute tous les documents)
 git add document.txt (ajoute le document portant le nom) => tab pour auto-compléter
 
-git commit -m "message de commit" (toujours mettre un message de commit)
+git commit -m "message de commit" (toujours mettre un message de commit, description de ce qui est fait dans le code)
+
+git log (connaitre les logs)
+
+git status (donne les documents modifié après le dernier commit)
+	modified (modif pas sauvee) => faire un add 
+	staged for commit => git add et demande de prise en compte
+	commited => git commit 
