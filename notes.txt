@@ -16,3 +16,8 @@ git status (donne les documents modifié après le dernier commit)
 	on branch master nothing to commit, working clean (tout vas bien xD)
 
 
+git branch sonNom (création d'une branche)
+
+git branch (montre les branches dispo)
+
+git checkout dev (passe sur la branche dev)
