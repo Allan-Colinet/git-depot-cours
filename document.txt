@@ -1,0 +1,6 @@
+Commande git
+
+git add .  (ajoute tous les documents)
+git add document.txt (ajoute le document portant le nom) => tab pour auto-compléter
+
+git commit -m "message de commit" (toujours mettre un message de commit)
